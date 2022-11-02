@@ -1,8 +1,7 @@
 ## 此项目是干什么的？
 
-黑马点评是一个不错的学习redis的项目，包含了redis中绝大多数的使用场景，内容丰富
-
-B站视频地址：https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.999.0.0&vd_source=b3e4d8808f74672941df0b800eebcee3
+成理点评是一个具有社交关注、分享、点赞、店铺点评、附近店铺等功能的校园项目。
+方便同学们假期出游推荐，选修课程推荐，还可以分享动态。店家也可以在上面发布优惠券、介绍自家店铺。
 
 ## 如何运行此项目？
 
@@ -30,3 +29,4 @@ redis在5.0以上就不再维护window版本了，因此需要一个linux虚拟�
 
 通过windows上的RDM测试连接  ==虚拟机ip:6379== 看redis是否可用
 
+项目参考视频：https://www.bilibili.com/video/BV1cr4y1671t/?spm_id_from=333.999.0.0&vd_source=b3e4d8808f74672941df0b800eebcee3
